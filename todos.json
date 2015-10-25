@@ -10,5 +10,13 @@
     {
         "text": "Ben is the best!",
         "author": "Jasmine Cowen"
+    },
+    {
+        "text": "React sure is fun",
+        "author": "Joe Hare"
+    },
+    {
+        "text": "More React stuff!",
+        "author": "Ben Hare"
     }
 ]
